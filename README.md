@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Arun Poloju
 
-<!--
-**Arun290799/Arun290799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Developer** from Hyderabad, Telangana, India.  
+I have 4 years of experience building scalable, high-performance web applications with a strong focus on clean architecture, usability, and efficient system design.
 
-Here are some ideas to get you started:
+📧 **Email:** polojuarunkumar2@gmail.com  
+📱 **Phone:** 8142403666  
+🌍 **Location:** Hyderabad, Telangana, India  
+🔗 **LinkedIn:** in/arun-p-530246146  
+🐙 **GitHub:** github.com/Arun290799  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I specialize in developing end-to-end features across modern front-end and back-end frameworks.  
+My work includes building responsive UIs, designing robust backend systems, integrating third-party APIs, optimizing application performance, and delivering smooth, production-ready user experiences.
+
+I enjoy solving real-world problems, working with modern JavaScript/TypeScript stacks, and contributing to products that make an impact.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Programming Languages**
+- JavaScript  
+- TypeScript  
+- Python  
+- PHP
+
+### **Frameworks & Technologies**
+- **Frontend:** Next.js, React.js, Tailwind CSS  
+- **Backend:** Express.js, Meteor.js, Prisma, Yii Framework  
+- **Cloud & DevOps:** AWS (EC2, S3), Git  
+
+### **Databases**
+- MongoDB  
+- PostgreSQL  
+- MySQL  
+
+---
+
+## 📈 What I’m Currently Exploring
+- Advanced TypeScript patterns  
+- Scalable backend architectures  
+- Cloud deployments with AWS  
+- Performance optimization techniques  
+
+---
+
+## 🤝 Let’s Connect
+
+If you’d like to collaborate, discuss ideas, or just chat tech — feel free to reach out!
+
+📧 **Email:** polojuarunkumar2@gmail.com  
+🔗 **LinkedIn:** in/arun-p-530246146  
+🐙 **GitHub:** github.com/Arun290799  
