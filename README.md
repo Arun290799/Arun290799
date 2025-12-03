@@ -4,7 +4,6 @@
 I have 4 years of experience building scalable, high-performance web applications with a strong focus on clean architecture, usability, and efficient system design.
 
 📧 **Email:** polojuarunkumar2@gmail.com  
-📱 **Phone:** 8142403666  
 🌍 **Location:** Hyderabad, Telangana, India  
 🔗 **LinkedIn:** in/arun-p-530246146  
 🐙 **GitHub:** github.com/Arun290799  
@@ -29,8 +28,8 @@ I enjoy solving real-world problems, working with modern JavaScript/TypeScript s
 - PHP
 
 ### **Frameworks & Technologies**
-- **Frontend:** Next.js, React.js, Tailwind CSS  
-- **Backend:** Express.js, Meteor.js, Prisma, Yii Framework  
+- **Frontend:** Next.js, React.js, Meteor.js, Tailwind CSS  
+- **Backend:** Express.js, Flask, Prisma, Yii Framework  
 - **Cloud & DevOps:** AWS (EC2, S3), Git  
 
 ### **Databases**
